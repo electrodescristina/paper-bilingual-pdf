@@ -1,0 +1,4 @@
+interface:
+  display_name: "论文中英对照 PDF"
+  short_description: "准确翻译论文术语，逐段对齐中英文，保留图表公式并检查分页与乱码"
+  default_prompt: "请使用 $paper-bilingual-pdf，将我提供的论文制作或修复为完整的左英文右简体中文对照 PDF，并核对术语、公式、图像和逐段分页。"
